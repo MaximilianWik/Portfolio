@@ -1,4 +1,4 @@
-your app in AI Studio: https://ai.studio/apps/dfe31429-626f-4cd0-bc16-d65bf575d896
+
 
 ## Run Locally
 
